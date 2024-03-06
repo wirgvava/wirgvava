@@ -5,7 +5,7 @@
 # 
 
 <a target="_blank" align="center">
-  <img align="right" width="500" src="https://github.com/wirgvava/wirgvava/assets/43795921/e3175f4f-93d8-469e-8fc2-8307e97a6781">
+  <img align="right" width="400" src="https://github.com/wirgvava/wirgvava/assets/43795921/e3175f4f-93d8-469e-8fc2-8307e97a6781">
 </a>
 
 <br>
