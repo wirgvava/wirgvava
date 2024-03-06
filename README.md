@@ -10,7 +10,7 @@
 
 <br>
 <br>
-<img height=40 src="https://github.com/wirgvava/wirgvava/assets/43795921/1d240fe8-60dc-4ff2-8381-098ec5d455f4">
+<img height=35 src="https://github.com/wirgvava/wirgvava/assets/43795921/1d240fe8-60dc-4ff2-8381-098ec5d455f4">
 <br>
 <br>
 
