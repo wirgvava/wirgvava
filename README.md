@@ -16,11 +16,9 @@
 
 - 💻 I’m currently working in <a href="https://www.profy.ge/ka" targer="blank">Profy</a>
 
-- 🌱 I’m currently learning SwiftUI <a href="https://www.hackingwithswift.com/100/swiftui" target="blank">100 Days Of SwiftUI</a>
-
 - 📫 How to reach me **koka.wirgvava@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1YzoJ7XNvMjMPacMr7k_cCtStB58J7gVF/view" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1QLm77L6fP_NgnljKZFvST-oK21N2iBy2/view?usp=share_link" target="blank">Resume</a>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
