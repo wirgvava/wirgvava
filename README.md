@@ -14,7 +14,9 @@
 <br>
 <br>
 
-- 💻 I’m currently working in <a href="https://www.profy.ge/ka" targer="blank">Profy</a>
+- 🌱 In progress project <a href="https://github.com/wirgvava/StarWar" target="blank">Star War - Space shooter game</a>
+
+- 💻 I’m currently working in <a href="https://www.profy.ge/ka" target="blank">Profy</a>
 
 - 📫 How to reach me **koka.wirgvava@gmail.com**
 
