@@ -4,8 +4,7 @@
 
 # 
 
-<a target="_blank" align="center">
-  <img align="right" width="400" src="https://github.com/user-attachments/assets/a1fc3eba-468c-43eb-9b31-25efa6eb617c">
+
 
 <br>
 <img height=35 src="https://github.com/wirgvava/wirgvava/assets/43795921/1d240fe8-60dc-4ff2-8381-098ec5d455f4">
