@@ -5,10 +5,8 @@
 # 
 
 <a target="_blank" align="center">
-  <img align="right" width="400" src="https://github.com/wirgvava/wirgvava/assets/43795921/e3175f4f-93d8-469e-8fc2-8307e97a6781">
-</a>
+  <img align="right" width="400" src="https://github.com/user-attachments/assets/a1fc3eba-468c-43eb-9b31-25efa6eb617c">
 
-<br>
 <br>
 <img height=35 src="https://github.com/wirgvava/wirgvava/assets/43795921/1d240fe8-60dc-4ff2-8381-098ec5d455f4">
 <br>
@@ -20,7 +18,7 @@
 
 - 📫 How to reach me **koka.wirgvava@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1OQ5hI78XkSd7jKGH-V2pZkTibyvT1Sfh/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fqJAslZHCvl6tXkaMrqfJm7hK9sHvWbA/view?usp=sharing" target="blank">Resume</a>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
