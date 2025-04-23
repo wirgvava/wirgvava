@@ -5,7 +5,6 @@
 # 
 
 
-
 <br>
 <img height=35 src="https://github.com/wirgvava/wirgvava/assets/43795921/1d240fe8-60dc-4ff2-8381-098ec5d455f4">
 <br>
@@ -37,12 +36,7 @@
 </p>
 
 <br><br><br>
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=43795921" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=43795921&image_size=auto&color_scheme=dark" width="1000" height="auto">
-    <img alt="Dashboard stats of @wirgvava" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=43795921&image_size=auto&color_scheme=light" width="1000" height="auto">
-  </picture>
-</a>
+
 
 #
 
