@@ -12,7 +12,7 @@
 
 - 🌱 In progress project <a href="https://github.com/wirgvava/StarWar-Unity" target="blank">Star War - Space shooter game</a>
 
-- 💻 I’m currently working in <a href="https://www.profy.ge/ka" target="blank">Profy</a>
+- 💻 I’m currently working in <a href="https://profy.ge/en" target="blank">Profy</a>
 
 - 📫 How to reach me **koka.wirgvava@gmail.com**
 
