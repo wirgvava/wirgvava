@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **koka.wirgvava@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fqJAslZHCvl6tXkaMrqfJm7hK9sHvWbA/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1IsjIQkmvsUnzO9SFQQWJ-WRsZRxxK7sq/view?usp=sharing" target="blank">Resume</a>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
