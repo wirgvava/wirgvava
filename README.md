@@ -1,8 +1,6 @@
 <!-- Header -->
-<h1 align="left">Hi, I'm Konstantine 👋</h1>
-<h3 align="left">iOS Developer | Swift Enthusiast | Pixel Perfectionist</h3>
+<h1 align="left">👋  Hi, I'm Konstantine<br>iOS Developer  |  Swift Enthusiast  |  Pixel Perfectionist</h1>
 
-<br></br>
 
 <!-- Stats Cards -->
 <p><img align="left" src="https://konstantines-github-readme-stats-git-master-wirgvavas-projects.vercel.app/api/top-langs/?username=wirgvava&layout=pie&langs_count=6&title_color=CCCCCC&text_color=CCCCCC&border_color=CCCCCC&bg_color=ffffff00&border_radius=16" alt="wirgvava"  height="500" /></p>
@@ -11,8 +9,7 @@
 
 <p>&nbsp;<img align="center" src="https://konstantines-github-readme-stats-git-master-wirgvavas-projects.vercel.app/api?username=wirgvava&show_icons=true&rank_icon=percentile&title_color=CCCCCC&text_color=CCCCCC&icon_color=CCCCCC&border_color=CCCCCC&bg_color=ffffff00&border_radius=16" alt="wirgvava" width="440"/></p>
 
-
-<br></br>
+#
 
 <!-- Language and Tools -->
 ### 🧰 Tech Stack
@@ -46,7 +43,8 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 
 
-<br>
+<br></br>
+#
 
 <!-- Contact -->
 ### 🔗 Connect with me
