@@ -1,50 +1,65 @@
-<p align="center">
-  <img height=100 src="https://github.com/wirgvava/wirgvava/assets/43795921/46f55d9c-f5f5-412a-88a8-4cc7bb3de816"/>
-</p>
+<!-- Header -->
+<h1 align="left">Hi, I'm Konstantine 👋</h1>
+<h3 align="left">iOS Developer | Swift Enthusiast | Pixel Perfectionist</h3>
 
-# 
+<br></br>
+
+<!-- Stats Cards -->
+<p><img align="left" src="https://konstantines-github-readme-stats-git-master-wirgvavas-projects.vercel.app/api/top-langs/?username=wirgvava&layout=pie&langs_count=6&title_color=CCCCCC&text_color=CCCCCC&border_color=CCCCCC&bg_color=ffffff00&border_radius=16" alt="wirgvava"  height="500" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wirgvava&border_radius=16&background=EB545400&border=CCCCCC&stroke=CCCCCC&ring=CCCCCC&fire=EB5454&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=CCCCCC84&excludeDaysLabel=CCCCCC&hide_longest_streak=true" alt="wirgvava" width="440"/></p>
+
+<p>&nbsp;<img align="center" src="https://konstantines-github-readme-stats-git-master-wirgvavas-projects.vercel.app/api?username=wirgvava&show_icons=true&rank_icon=percentile&title_color=CCCCCC&text_color=CCCCCC&icon_color=CCCCCC&border_color=CCCCCC&bg_color=ffffff00&border_radius=16" alt="wirgvava" width="440"/></p>
+
+
+<br></br>
+
+<!-- Language and Tools -->
+### 🧰 Tech Stack
+
+#### - Languages & Platforms
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Ghostty](https://img.shields.io/badge/Ghostty-3B3B3B?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+#### - Backend & Tools
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+#### - Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 
 
 <br>
-<img height=35 src="https://github.com/wirgvava/wirgvava/assets/43795921/1d240fe8-60dc-4ff2-8381-098ec5d455f4">
-<br>
-<br>
 
-- 🌱 In progress project <a href="https://github.com/wirgvava/StarWar-Unity" target="blank">Star War - Space shooter game</a>
+<!-- Contact -->
+### 🔗 Connect with me
 
-- 💻 I’m currently working in <a href="https://profy.ge/en" target="blank">Profy</a>
-
-- 📫 How to reach me **koka.wirgvava@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1IsjIQkmvsUnzO9SFQQWJ-WRsZRxxK7sq/view?usp=sharing" target="blank">Resume</a>
-
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-</p>
-
-<br><br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/konstantine-tsirgvava) &nbsp;&nbsp; [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/wirgvava) &nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/koka.wirgvava)&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koka.wirgvava@gmail.com)
 
 
+
+<!-- Quote -->
 #
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/konstantine-tsirgvava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konstantine-tsirgvava" height="30" width="40" /></a>
-<a href="https://fb.com/wirgvava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wirgvava" height="30" width="40" /></a>
-<a href="https://instagram.com/koka.wirgvava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koka.wirgvava" height="30" width="40" /></a>
-</p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wirgvava&label=Profile%20views&color=77bb41&style=flat" alt="wirgvava" /> </p>
+
+⚡ _“Great apps are born from attention to detail, curiosity, and a lot of `debugPrint()`.”_
+
+<br><br>
+
